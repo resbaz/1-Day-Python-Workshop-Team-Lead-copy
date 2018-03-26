@@ -29,7 +29,7 @@ You will also find that the content for the workshop is available in both the ma
 
 The basic progression for the workshop should be as follows:
 
-### Tuesday 14th November
+### Monday 26th March
 |Time| Activity|
 |---:|---|
 |9.30am - 10.00am |Intro to Jupyter and Python|
@@ -42,5 +42,5 @@ The basic progression for the workshop should be as follows:
 |2.45pm - 3.00pm|Tea Break|
 |2.45pm - 3.30pm|Functions continued|
 |3.45 pm - 4.00pm|Tea Break|
-|3.45pm - 5pm|Where too next|
+|3.45pm - 5pm|Where to next|
 
